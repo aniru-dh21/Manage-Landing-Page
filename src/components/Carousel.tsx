@@ -41,7 +41,7 @@ export default function Carousel() {
         >
           <SwiperSlide>
             <div className="bg-veryPaleRed flex flex-col items-center justify-center gap-4 text-center relative py-4 px-2">
-              <img src={Anisha} className="h-20 w-20" />
+              <img src={Anisha} className="h-20 w-20" alt="Anisha's Image" />
               <h3 className="text-darkBlue font-bold text-xl">Anisha Li</h3>
               <p className="text-darkGrayishBlue">
                 “Manage has supercharged our team’s workflow. The ability to
@@ -52,7 +52,7 @@ export default function Carousel() {
           </SwiperSlide>
           <SwiperSlide>
             <div className="keen-slider__slide bg-veryPaleRed flex flex-col items-center justify-center gap-4 text-center relative py-4 px-2">
-              <img src={Ali} className="h-20 w-20" />
+              <img src={Ali} className="h-20 w-20" alt="Ali's Image" />
               <h3 className="text-darkBlue font-bold text-xl">Ali Bravo</h3>
               <p className="text-darkGrayishBlue">
                 “We have been able to cancel so many other subscriptions since 
@@ -63,7 +63,7 @@ export default function Carousel() {
           </SwiperSlide>
           <SwiperSlide>
             <div className="keen-slider__slide bg-veryPaleRed flex flex-col items-center justify-center gap-4 text-center relative py-4 px-2">
-              <img src={Richard} className="h-20 w-20" />
+              <img src={Richard} className="h-20 w-20" alt="Richard's Image" />
               <h3 className="text-darkBlue font-bold text-xl">Richard Watts</h3>
               <p className="text-darkGrayishBlue">
                 “Manage allows us to provide structure and process. It keeps us organized
@@ -73,7 +73,7 @@ export default function Carousel() {
           </SwiperSlide>
           <SwiperSlide>
             <div className="keen-slider__slide bg-veryPaleRed flex flex-col items-center justify-center gap-4 text-center relative py-4 px-2">
-              <img src={Shanai} className="h-20 w-20" />
+              <img src={Shanai} className="h-20 w-20" alt="Shanai's Image" />
               <h3 className="text-darkBlue font-bold text-xl">Shanai Gough</h3>
               <p className="text-darkGrayishBlue">
                 “Their software allows us to track, manage and collaborate on 
