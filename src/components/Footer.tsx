@@ -13,7 +13,7 @@ export default function Footer() {
       <Social />
 
       <p className="text-darkGrayishBlue md:absolute md:bottom-12">
-        Copyright 2024. All Rights Reserved
+        Copyright 2020. All Rights Reserved
       </p>
     </footer>
   );
