@@ -53,33 +53,32 @@ export default function Carousel() {
           <SwiperSlide>
             <div className="keen-slider__slide bg-veryPaleRed flex flex-col items-center justify-center gap-4 text-center relative py-4 px-2">
               <img src={Ali} className="h-20 w-20" />
-              <h3 className="text-darkBlue font-bold text-xl">Anisha Li</h3>
+              <h3 className="text-darkBlue font-bold text-xl">Ali Bravo</h3>
               <p className="text-darkGrayishBlue">
-                “Manage has supercharged our team’s workflow. The ability to
-                maintain visibility on larger milestones at all times keeps
-                everyone motivated.”
+                “We have been able to cancel so many other subscriptions since 
+                using Manage. There is no more cross-channel confusion and everyone
+                is much more focused.”
               </p>
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="keen-slider__slide bg-veryPaleRed flex flex-col items-center justify-center gap-4 text-center relative py-4 px-2">
               <img src={Richard} className="h-20 w-20" />
-              <h3 className="text-darkBlue font-bold text-xl">Anisha Li</h3>
+              <h3 className="text-darkBlue font-bold text-xl">Richard Watts</h3>
               <p className="text-darkGrayishBlue">
-                “Manage has supercharged our team’s workflow. The ability to
-                maintain visibility on larger milestones at all times keeps
-                everyone motivated.”
+                “Manage allows us to provide structure and process. It keeps us organized
+                and focused. I can't stop recommending them to everyone I talk to!”
               </p>
             </div>
           </SwiperSlide>
           <SwiperSlide>
             <div className="keen-slider__slide bg-veryPaleRed flex flex-col items-center justify-center gap-4 text-center relative py-4 px-2">
               <img src={Shanai} className="h-20 w-20" />
-              <h3 className="text-darkBlue font-bold text-xl">Anisha Li</h3>
+              <h3 className="text-darkBlue font-bold text-xl">Shanai Gough</h3>
               <p className="text-darkGrayishBlue">
-                “Manage has supercharged our team’s workflow. The ability to
-                maintain visibility on larger milestones at all times keeps
-                everyone motivated.”
+                “Their software allows us to track, manage and collaborate on 
+                our project from anywhere. It keeps the whole team in-sync without
+                being intrusive.”
               </p>
             </div>
           </SwiperSlide>
