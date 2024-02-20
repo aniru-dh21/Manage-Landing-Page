@@ -19,7 +19,7 @@ export default function Main() {
           Get Started
         </Button>
       </div>
-      <img src={Illustration} className="w-full md:w-3/6" />
+      <img src={Illustration} className="w-full md:w-3/6" alt="Illustration" />
     </div>
   );
 }
