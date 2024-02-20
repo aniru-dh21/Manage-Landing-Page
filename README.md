@@ -23,3 +23,8 @@ Users should be able to:
 - Recieve an error message when the newsletter signup `form` is submitted if:
   - The `input` field is empty
   - The email address is not formatted correctly
+
+### Links
+
+- Solution URL: [GitHub Repository](https://github.com/aniru-dh21/Manage-Landing-Page)
+- Live Site URL: [Live Site](https://manage-landing-page-three-blue.vercel.app/)
