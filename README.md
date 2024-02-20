@@ -28,3 +28,15 @@ Users should be able to:
 
 - Solution URL: [GitHub Repository](https://github.com/aniru-dh21/Manage-Landing-Page)
 - Live Site URL: [Live Site](https://manage-landing-page-three-blue.vercel.app/)
+
+## My process
+
+### Built with
+
+- React
+- Vite
+- Tailwind CSS
+- Mobile-first workflow
+- Typescript
+- Swiper
+- Slider
